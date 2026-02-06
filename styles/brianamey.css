@@ -1,51 +1,39 @@
 @import url("https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap");
-:root {
-	--link-color: #0090c9;
-}
 html {
     font-family: "Quantico", sans-serif;
 }
 header {
-    &#fwompa {
-        font-size: calc(7px + 10vw);
-		background: linear-gradient(90deg, #2980ef, #704170 60%);
+    &#brianAmey {
+        font-size: 200px;
+		background: linear-gradient(90deg, #9141cb, #ef70ef 80%);
     }
-    .fwompahead {
+    .brianAmeyhead {
         display: flex;
-    align-items: center;
-    flex-direction: row;
-    justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-around;
     }
-    #waterType {
+    #poisonType {
     max-width: 100%;
     max-height: 100%;
-    min-height: 5%;
-    min-width: 5%;
     }
-        #ghostType {
+    #fairyType {
     max-width: 100%;
     max-height: 100%;
-    min-height: 5%;
-    min-width: 5%;
     }
 }
 main {
-        #fwompaim {
-        margin-bottom: 1rem;
-        display: block;
-        margin: 0 auto;
-        max-width: 35%;
-        min-width: 5%;
-    }
-        margin-bottom: 1rem;
-    .fwompalink {
+            #brianAmeyim {
+            width: 35%;
+        }
+            .brianameylink {
         font-size: 30px;
         text-decoration: none;
         color: var(--link-color);
                 padding: 50px;
         text-align: center;
     }
-	.fwompalink {
+	.brianameylink {
         display: flex;
     align-items: center;
     justify-content: center;
@@ -56,7 +44,7 @@ main {
         color: rgb(255, 255, 255);
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 rgb(0, 0, 0);
         background-color: #585858;
-        background-image: url("../images/fwompabutton.png");
+        background-image: url("../images/brianameylink.png");
     }
 	}
-	}
+    }
