@@ -3,11 +3,11 @@ html {
     font-family: "Quantico", sans-serif;
 }
 header {
-    &#brr {
+    &#raldin {
         font-size: 200px;
-		background: linear-gradient(90deg, #3dcef3, #6e868f 60%);
+		background: linear-gradient(90deg, #6e868f, #5060e1 132%);
     }
-    .brrhead {
+    .raldinhead {
         display: flex;
         align-items: center;
         flex-direction: row;
@@ -17,23 +17,23 @@ header {
     max-width: 100%;
     max-height: 100%;
     }
-    #iceType {
+    #dragonType {
     max-width: 100%;
     max-height: 100%;
     }
 }
 main {
-            #brrim {
+            #raldinim {
             width: 35%;
         }
-            .brrlink {
+            .raldinlink {
         font-size: 30px;
         text-decoration: none;
         color: var(--link-color);
                 padding: 50px;
         text-align: center;
     }
-	.brrlink {
+	.raldinlink {
         display: flex;
     align-items: center;
     justify-content: center;
@@ -44,7 +44,7 @@ main {
         color: rgb(255, 255, 255);
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 rgb(0, 0, 0);
         background-color: #585858;
-        background-image: url("../images/brrlink.png");
+        background-image: url("../images/raldinlink.png");
     }
 	}
     }

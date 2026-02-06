@@ -3,37 +3,37 @@ html {
     font-family: "Quantico", sans-serif;
 }
 header {
-    &#brr {
+    &#roscas {
         font-size: 200px;
-		background: linear-gradient(90deg, #3dcef3, #6e868f 60%);
+		background: linear-gradient(90deg, #704170, #ef70ef 90%);
     }
-    .brrhead {
+    .roscashead {
         display: flex;
         align-items: center;
         flex-direction: row;
         justify-content: space-around;
     }
-    #steelType {
+    #ghostType {
     max-width: 100%;
     max-height: 100%;
     }
-    #iceType {
+    #fairyType {
     max-width: 100%;
     max-height: 100%;
     }
 }
 main {
-            #brrim {
+            #roscasim {
             width: 35%;
         }
-            .brrlink {
+            .roscaslink {
         font-size: 30px;
         text-decoration: none;
         color: var(--link-color);
                 padding: 50px;
         text-align: center;
     }
-	.brrlink {
+	.roscaslink {
         display: flex;
     align-items: center;
     justify-content: center;
@@ -44,7 +44,7 @@ main {
         color: rgb(255, 255, 255);
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 rgb(0, 0, 0);
         background-color: #585858;
-        background-image: url("../images/brrlink.png");
+        background-image: url("../images/roscaslink.png");
     }
 	}
     }
